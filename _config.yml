@@ -4,9 +4,9 @@ title                    : "Your Name / Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Professional portfolio and personal website"
-url                      : https://yourusername.github.io # the base hostname & protocol for your site
+url                      : https://mackkv94.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yourusername/yourusername.github.io"
+repository               : "mackkv94/mackkv94.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
