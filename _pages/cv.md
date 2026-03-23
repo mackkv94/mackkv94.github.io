@@ -45,6 +45,7 @@ redirect_from:
 * 2D & 3D (depth) image processing and digital signal processing
 * Computer vision
 * Optimization and machine learning
+  * Classical algorithms, in addition to Neural Networks and Deep Learning
 * Real-time processing and electro-optics
 * Algorithm development and parallel computing
 * Automation and software development
