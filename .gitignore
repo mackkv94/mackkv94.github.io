@@ -3,7 +3,8 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 node_modules/
-vendor/
+/vendor/
+!_sass/vendor/
 .env
 .env.*
 *.swp
