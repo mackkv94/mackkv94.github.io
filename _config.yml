@@ -70,14 +70,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kevin V. Mack"
   avatar           : "profile.png"
-  bio              : "Your professional tagline or short bio goes here"
-  location         : "Your City, State"
-  employer         : "Your Organization"
-  email            : "your.email@example.com"
-  googlescholar    : # "https://scholar.google.com/citations?user=YOURID"
-  researchgate     : # "https://www.researchgate.net/profile/Your-Name"
+  bio              : "Vision Software Engineer with applications in robotics and manufacturing automation."
+  location         : ""
+  employer         : "Universal Instruments Corp."
+  email            : "mackkv94@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=wv5Qpj4AAAAJ&hl=en"
+  researchgate     : "https://www.researchgate.net/profile/Kevin-Mack-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -85,13 +85,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yourusername"
+  github           : "mackkv94"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : # your-linkedin-slug
+  linkedin         : "kevin-mack-81527b126/"
   orcid            :
   pinterest        :
   soundcloud       :
