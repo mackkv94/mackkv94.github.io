@@ -1,8 +1,8 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Personal Website"
+title                    : "Kevin V. Mack / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kevin V. Mack"
 description              : &description "Professional portfolio and personal website"
 url                      : https://mackkv94.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
