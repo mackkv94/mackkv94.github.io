@@ -23,8 +23,8 @@ redirect_from:
   * Frank G. Paul Medal for Excellence in Science and Mathematics
 
 ## Work Experience
-* **Vision Software Engineer** - Universal Instruments Corp., September 2021 - Present
-  * SPOT Award Recipient
+* **Vision Software Engineer** — Universal Instruments Corp., September 2021 — Present
+  * 2022 SPOT Award Recipient
 
 * **Research Assistant** — Clarkson University, Spring 2019 – August 2021
   * Ph.D. Candidate in Electrical Engineering
