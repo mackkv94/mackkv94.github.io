@@ -4,6 +4,15 @@ collection: projects
 permalink: /projects/underwater-lidar
 date: 2019-10-27
 excerpt: "Modified commercial ToF cameras for underwater situational awareness and object detection in turbid water environments."
+tags:
+  - Python
+  - PyQt
+  - LiDAR
+  - Time-of-Flight
+  - Computer Vision
+  - Image Processing
+  - Signal Processing
+  - Hardware
 ---
 
 Modified commercial Time-of-Flight (ToF) cameras have been used to accurately and reliably measure scene depth with high resolution. This project adapts this technology for applications in underwater environments.

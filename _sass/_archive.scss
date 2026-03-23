@@ -66,6 +66,24 @@
   }
 }
 
+.archive__item-tags {
+  margin-top: 0.25em;
+  margin-bottom: 0;
+}
+
+.archive__item-tag {
+  display: inline-block;
+  margin-right: 4px;
+  margin-bottom: 4px;
+  padding: 2px 8px;
+  font-size: $type-size-8;
+  font-family: $sans-serif;
+  background-color: mix(#fff, $primary-color, 80%);
+  color: $primary-color;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
